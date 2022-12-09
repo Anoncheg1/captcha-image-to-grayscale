@@ -18,4 +18,4 @@ PHPcaptcha
 
 ![This is an image](https://github.com/Anoncheg1/captcha-image-to-grayscale/blob/master/2022-12-09_19-53.png)
 
-![This is an image](https://github.com/Anoncheg1/captcha-image-to-grayscale/blob/master/2022-12-09_19-53.png)
+![This is an image](https://github.com/Anoncheg1/captcha-image-to-grayscale/blob/master/2022-12-09_19-53_1x.png)
