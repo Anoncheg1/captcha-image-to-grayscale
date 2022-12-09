@@ -1,3 +1,5 @@
+Clear text image from another colours and noise
+
 requirements: OpenCV 4.2.0
 
 1) Detect location characters by second larges colour on image
