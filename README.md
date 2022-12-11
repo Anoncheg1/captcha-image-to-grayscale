@@ -4,7 +4,7 @@ requirements: OpenCV 4.2.0
 
 1) Detect location characters by second larges colour on image
 2) clear from noise if 1) was seccess
-3) invert colours if to make black on white text
+3) invert colours if needed to make black on white text
 
 PHPcaptcha
 
